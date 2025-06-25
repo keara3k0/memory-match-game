@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <title>Memory Match</title>
+</head>
+<body id="page-body">
+    <h1>Memory Match</h1>
+    <p>Moves: <spa id="move-count">0</span></p>
+    <p>Time: <span id="timer">0</span></p>
+    <label for="theme-select">Choose a Theme:</label>
+    <select name="" id="theme-select">
+        <option value="mint">Mint Mood</option>
+        <option value="galaxy">Galaxy Drift</option>
+        <option value="retro">Retro Pop</option>
+        <option value="zen">Zen Sky</option>
+        <option value="botanical">Botanical Bloom</option>
+    </select>
+    <section id="game-board" class="game-board">
+        <!-- <div class="card flipped">
+            <div class="card-inner">
+              <div class="card-front">🌟</div>
+              <div class="card-back back-style-mint">BACK</div>
+            </div>
+          </div> -->
+    </section>
+    <div id="win-banner" class="hidden">
+        <p>🎉 You won in <span id="final-moves">0</span> moves and <span id="final-time"> seconds!</span></p>
+        <button id="play-again">Play Again</button>
+    </div>
+    <div id="high-score">
+        <div id="best-moves-container">
+          Moves: <span id="best-moves">--</span>
+        </div>
+        <div id="best-time-container">
+          Time: <span id="best-time">--</span>
+        </div>
+      </div>
+      
+    <button id="reset-btn">Reset</button>
+
+    <script src="js/index.js"></script>
+</body>
+</html>
