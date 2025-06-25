@@ -21,6 +21,10 @@ A fun and interactive memory matching card game built with HTML, CSS, and JavaSc
 
 - HTML  
 - CSS (with media queries for responsive design)  
-- Vanilla JavaScript  
+- Vanilla JavaScript
+
+## Demo: 
+[Click here to play the live game!](https://keara3k0.github.io/memory-match-game/)
+
 
 
