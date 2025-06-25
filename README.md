@@ -4,11 +4,11 @@ A fun and interactive memory matching card game built with HTML, CSS, and JavaSc
 
 ## Key Features 
 
-- Multiple theme options (Mint Mood, Galaxy Drift, Retro Pop, Zen Sky, Botanical Bloom)
-- Move counter and timer 
-- Local storage high score tracking 
-- Theme-based card backs for a personalized experience
-- Responsive layout for desktop and mobile 
+- Multiple theme options (Mint Mood, Galaxy Drift, Retro Pop, Zen Sky, Botanical Bloom).
+- Move counter and timer.
+- Local storage high score tracking. 
+- Theme-based card backs for a personalized experience.
+- Responsive layout for desktop and mobile.
 
 ## How to Play 
 
