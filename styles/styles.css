@@ -145,7 +145,7 @@ p {
   
 
 .back-style-galaxy {
-    background: url('/matchinggame/images/galaxy.jpg');
+    background: url('../images/galaxy.jpg');
     background-size: cover;
     color: transparent;
     border: 2px solid #888;
